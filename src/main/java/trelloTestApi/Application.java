@@ -16,7 +16,7 @@ public class Application {
     @Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
         return args -> {
-            System.out.println(FigletFont.convertOneLine("FUCK OFF!!"));
+            System.out.println(FigletFont.convertOneLine("API TRELLO TEST"));
         };
     }
 
