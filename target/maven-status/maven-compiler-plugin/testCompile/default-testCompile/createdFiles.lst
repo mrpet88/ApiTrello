@@ -1,0 +1,4 @@
+trelloTestApi\TrelloEndPoints.class
+trelloTestApi\stepdefinitions\GetTrelloUrl.class
+trelloTestApi\CucumberTestSuite.class
+trelloTestApi\steps\TrelloApiSteps.class
